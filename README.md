@@ -1,6 +1,6 @@
 # YouTube Vanced - Magisk Repo
 
-This is the official magisk repo version of the Youtube Vanced project, more info in the [official thread on XDA](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)
+This is the official magisk repo version of the Youtube Vanced project, more info and support in the [official thread on XDA](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757)
 The version in this repo **ONLY supports arm/arm64/x86/x86_64 devices and minAPI21 systems**. There is also a [black themed variant](https://github.com/Magisk-Modules-Repo/iYTBP-Vanced-Magisk-Repo) of this version available.
 
 ### NOTE:
@@ -15,3 +15,5 @@ reboot the phone like with detaching 60 seconds after reboot it gets attached to
 WARNING: Due to the hacky nature of this method there might come up unexpected issues with the playstore and it's functions. So be warned and enable it at your own risk!**
 
 **This repo gets always updated `AFTER` the official Apk variants are available/released so expect up-to-date delays**
+
+[Latest CHANGELOG](http://vanced.cf/Home/Changelogs)
