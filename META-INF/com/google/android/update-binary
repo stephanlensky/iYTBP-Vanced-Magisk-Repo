@@ -37,7 +37,7 @@ ZIP=$3
 
 mount /data 2>/dev/null
 
- Load utility functions
+# Load utility functions
 if [ -f /data/adb/magisk/util_functions.sh ]; then
   . /data/adb/magisk/util_functions.sh
 elif [ -f /data/magisk/util_functions.sh ]; then
